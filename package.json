@@ -1,0 +1,30 @@
+{
+  "name": "winston-visualization",
+  "version": "1.0.0",
+  "description": "Node.js module for express, main purpose of that module is make easy view winston logs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./index.s",
+    "start:dev": "nodemon ./index.s"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "winston",
+    "logs",
+    "visualize"
+  ],
+  "author": {
+    "name": "Milad E. Fahmy",
+    "email": "miladezzat.f@gmail.com",
+    "url": "https://miladezzat.netlify.app/"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.9.4",
+    "jade": "^1.7.0",
+    "lodash": "^4.17.5",
+    "serve-static": "^1.10.1",
+    "winston": "^2.4.2"
+  }
+}
