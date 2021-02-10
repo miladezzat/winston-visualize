@@ -1,11 +1,11 @@
 {
-  "name": "winston-visualization",
+  "name": "winston-visualize",
   "version": "1.0.0",
   "description": "Node.js module for express, main purpose of that module is make easy view winston logs",
   "main": "app.js",
   "scripts": {
-    "start": "node ./index.s",
-    "start:dev": "nodemon ./index.s"
+    "start": "node ./index.js",
+    "start:dev": "nodemon ./index.js"
   },
   "keywords": [
     "node.js",
