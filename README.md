@@ -1,5 +1,8 @@
 # winston-visualize
 
+[![npm version](https://badge.fury.io/js/winston-visualize.svg)](https://badge.fury.io/js/winston-visualize)&nbsp;
+![https://img.shields.io/npm/dm/winston-visualize.svg](https://img.shields.io/npm/dm/winston-visualize.svg)
+
 ## Installation
 
 ```bash
