@@ -40,4 +40,4 @@ After this run :
 ```
 visit: [http://localhost:3000/logs](http://localhost:3000/logs)
 
-![image]("./view-logs.png")
+![image]("https://github.com/60-min-code/winston-visualize/blob/development/views/view-logs.png")
